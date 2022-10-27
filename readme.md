@@ -18,9 +18,49 @@
 6. Spindle Speed 6000 rpm
 7. Feed rate 200 ipm 
 8. Max Budget: 300$ 
+9. 12V for all components
+
+#### Work Break Down
+![image](https://user-images.githubusercontent.com/33789192/198336130-44954e44-8490-4b33-a3fe-6c73970693aa.png)
+
+[Cnc Work Breakdown](https://app.diagrams.net/#G1-pGSj6zrlPf-V_P4YyosqtA9TX-E5aWt)
 
 #### Calculations 
 
+| Item        | Value           |
+| ------------- |:-------------:|
+| Max RPM stepper motor     | |
+| Max RPM gear box motor     | |
+| Max length lead screw | 1000mm |
+
+#### Bill of Materials 
+
+[Bill of Materials](https://docs.google.com/spreadsheets/d/18Q-QuPedNc3dOqKtJqhoTGTPmJNXPU0npuWzOIBIFFE/edit#gid=0)
+
+##### Stepper Motor Selection: Stepperonline Stepper Bipolar
+
+
+<img src="https://user-images.githubusercontent.com/33789192/198341589-e13d15b4-a93b-46d1-b018-3b0971e8bda6.png" alt="stepper" style="width:200px;height:200px;">
+
+| Item        | Technical Specification           | This Motor |
+| ------------- |:-------------:|---|
+| Power    | 12V | 12V |
+| Current Draw | 2 A | 2 A |
+| Feed Rate    | 200 ipm | XXXX |
+| Max torque| XXXX | 59 Ncm |
+| Shaft Diameter | 4mm max | 2.54 mm |
+| Step Angle | 1-2 degrees| 1.8 degrees|
+| Dimensions | XXXX | 1.65 x 1.65 x 1.89 inches | 
+
+##### Planetary Motor Selection: 
+| Item        | Technical Specification           | This Motor |
+| ------------- |:-------------:|---|
+| Power    | | |
+| Current Draw | | |
+| RPM     | | |
+| Max torque| 1000mm | |
+| Shaft Diameter | | |
+| Dimensions | | | 
 
 #### Appendixes 
 

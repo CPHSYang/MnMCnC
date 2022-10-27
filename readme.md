@@ -63,6 +63,8 @@
 | Shaft Diameter | | |
 | Dimensions | | | 
 
+#### Motion and Control 
+
 #### Appendixes 
 
 **I : Feed and Spindle Rate Sources**

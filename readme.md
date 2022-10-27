@@ -32,7 +32,8 @@
 | ------------- |:-------------:|
 | Max RPM stepper motor     | |
 | Max RPM gear box motor     | |
-| Max length lead screw | 1000mm |
+| Max x-y motion | |
+| Max z motion ||
 
 #### Bill of Materials 
 

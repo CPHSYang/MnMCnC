@@ -53,15 +53,17 @@
 | Step Angle | 1-2 degrees| 1.8 degrees|
 | Dimensions | XXXX | 1.65 x 1.65 x 1.89 inches | 
 
+<img src="https://m.media-amazon.com/images/I/61wTZh6t0nL._AC_SX679_.jpg" alt="stepper" style="width:200px;height:200px;">
+
 ##### Planetary Motor Selection: 
 | Item        | Technical Specification           | This Motor |
 | ------------- |:-------------:|---|
-| Power    | | |
-| Current Draw | | |
-| RPM     | | |
-| Max torque| 1000mm | |
-| Shaft Diameter | | |
-| Dimensions | | | 
+| Power    | 12V | 24V |
+| Current Draw | 2A | XXXX  |
+| RPM     |7000| 20000 |
+| Max torque| 1000mm | XXXX |
+| Shaft Diameter | N/A | N/A |
+| Dimensions | XXXX | 6.46 x 3.11 x 2.95 inches | 
 
 #### Motion and Control 
 

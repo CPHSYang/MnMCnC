@@ -4,9 +4,10 @@
 
 ##### General Requirements 
 
-1. CNC both wood and aluminium 
-2. Use only ready made kit parts, precut, or rapid prototyped (laser cut or 3D print) 
-3. Use AC power, no battery
+1. CNC should cut metal and wood
+2. CNC must have ability to replace spindle for higher spec motor
+3. Use only ready made kit parts, precut, or rapid prototyped (laser cut or 3D print) 
+4. Use AC power, no battery
 
 ##### Technical Requirements 
 
